@@ -1,0 +1,8 @@
+This is being created as in order to create any meaningfull email server, then one must know how to block spam messages. 
+This program will be used to create these spam messages, and them to a own mail server, from a single owned mail server.
+
+Recommended Software:
+- Ubuntu 12.04
+- have mailutils (sudo apt-get install install mailutils)
+- have python2.7 installed
+
